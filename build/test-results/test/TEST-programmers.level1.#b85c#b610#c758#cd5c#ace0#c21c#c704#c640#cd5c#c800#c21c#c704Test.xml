@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="programmers.level1.로또의최고순위와최저순위Test" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-08-12T05:54:45" hostname="DESKTOP-2S09U3K" time="0.026">
-  <properties/>
-  <testcase name="solution1()" classname="programmers.level1.로또의최고순위와최저순위Test" time="0.023"/>
-  <testcase name="solution2()" classname="programmers.level1.로또의최고순위와최저순위Test" time="0.001"/>
-  <testcase name="solution()" classname="programmers.level1.로또의최고순위와최저순위Test" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
