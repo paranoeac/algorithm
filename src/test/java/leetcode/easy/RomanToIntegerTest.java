@@ -1,4 +1,4 @@
-package easy;
+package leetcode.easy;
 
 import leetcode.easy.*;
 import org.junit.jupiter.api.BeforeEach;
