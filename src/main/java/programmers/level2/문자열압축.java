@@ -64,41 +64,4 @@ public class 문자열압축 {
 
         return result;
     }
-
-//    private int getLengthCompressedNumber(String s, int wordCnt) {
-//
-//        int matchCnt = 0;
-//        String std = "";
-//        String nxt = "";
-//        String rst = "";
-//
-//        for (int i = 0; i < s.length(); i = i + wordCnt) {
-//            if (std.equals("")) {
-//                std = s.substring(i, i + wordCnt);
-//            }
-//
-//            if (i + wordCnt + wordCnt > s.length()) {
-//                nxt = s.substring(i);
-//            } else {
-//                nxt = s.substring(i + wordCnt, i + wordCnt + wordCnt);
-//            }
-//
-//            if (std.equals(nxt)) {
-//                matchCnt++;
-//            } else {
-//                if (matchCnt > 1) {
-//                    rst += String.valueOf(matchCnt);
-//                } else {
-//                    rst += std;
-//                    matchCnt = 0;
-//                }
-//            }
-//
-//            std = nxt;
-//        }
-//
-//        System.out.println(rst);
-//
-//        return rst.length();
-//    }
 }
