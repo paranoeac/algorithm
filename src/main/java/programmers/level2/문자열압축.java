@@ -62,6 +62,8 @@ public class 문자열압축 {
             result.add(temp);
         }
 
+
+
         return result;
     }
 }
