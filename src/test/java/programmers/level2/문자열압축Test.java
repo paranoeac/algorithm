@@ -10,7 +10,6 @@ class 문자열압축Test {
     void solution() {
         문자열압축 sol = new 문자열압축();
 
-
         int result = sol.solution("ababcdcdababcdcd");
         assertEquals(9, result);
 
